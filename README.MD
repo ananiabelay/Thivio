@@ -3,7 +3,7 @@ It's opensource and usable by anybody if you want the  compiled version dm me
 or else if you want the compiling code here check the build.txt 
 
 ![Alt text](1.png)
-![Alt text](2.png)
+![Alt text](2.PNG)
 
 
 use this code feel free to use it
